@@ -1,0 +1,6 @@
+{
+  "name": "URC Smart Card Replace Form & Recharge Alert",
+  "description": "Bilingual URC smart card replacement portal with camera capture, records management, and critical low battery recharge reminders.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
